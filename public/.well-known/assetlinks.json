@@ -1,0 +1,17 @@
+{
+  "intentFilters": [
+    {
+      "action": "VIEW",
+      "autoVerify": true,
+      "data": [
+        {
+          "scheme": "https",
+          "host": "trygg.nga.gm",
+          "pathPrefix": "/"
+        },
+        { "scheme": "mytrygg" }
+      ],
+      "category": ["BROWSABLE", "DEFAULT"]
+    }
+  ]
+}

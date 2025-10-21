@@ -1,0 +1,2 @@
+# trygg-driver-assetlinking
+assetlinking
